@@ -88,10 +88,11 @@ header{
 
 .action_name{
     text-decoration: none;
+    color : #282c3f;
 }
 /* main section */
 .banner_container{
-    margin: 40px 0;;
+    margin: 40px 0;
 }
 .image_banner{
     width: 100%;
